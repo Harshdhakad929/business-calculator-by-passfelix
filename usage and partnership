@@ -1,0 +1,63 @@
+Usage
+Login with default credentials (admin/123)
+
+Configure your shop settings
+
+Add items with their cost, margin, quantity, etc.
+
+View real-time calculations
+
+Generate and print bills
+
+Access history and export data as needed
+
+Technologies Used
+HTML5
+
+CSS3 (with animations and 3D transforms)
+
+JavaScript (ES6)
+
+QRCode.js for UPI QR generation
+
+LocalStorage for data persistence
+
+Font Awesome for icons
+
+Google Fonts (Poppins)
+
+Browser Support
+Chrome	Firefox	Edge	Safari
+Latest ✔	Latest ✔	Latest ✔	Latest ✔
+Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some AmazingFeature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
+
+License
+Distributed under the Apache License 2.0. See LICENSE for more information.
+
+Key License Terms:
+
+✅ Permits commercial use
+
+✅ Allows modification and distribution
+
+✅ Provides patent protection
+
+✅ Requires preservation of copyright notices
+
+🔄 Requires state changes to be documented
+
+For full license details, please see the LICENSE file.
+
+Contact
+PassFelix - @PassFelix - dhakad929@gmail.com
