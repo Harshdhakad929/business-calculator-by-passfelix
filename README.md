@@ -2,6 +2,13 @@
 
 A feature-rich business calculator application designed for retail and wholesale businesses to calculate profits, generate invoices, and manage transactions with ease.
 Business calculator screenshot - https://github.com/Harshdhakad929/business-calculator-by-passfelix/blob/main/Screenshot%202025-03-27%20164822.png
+
+
+**TO LOGIN** 
+
+**Username- admin@example.com**
+
+**Password- 123**
 ## Features
 
 - **Responsive UI:** Clean, mobile-friendly interface using modern CSS.
