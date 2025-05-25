@@ -2,39 +2,31 @@
 
 A feature-rich business calculator application designed for retail and wholesale businesses to calculate profits, generate invoices, and manage transactions with ease.
 Business calculator screenshot - https://github.com/Harshdhakad929/business-calculator-by-passfelix/blob/main/Screenshot%202025-03-27%20164822.png
-
 ## Features
 
-- 🧮 **Business Calculations**
-  - Calculate profit margins, discounts, and taxes
-  - Support for multiple items in a single transaction
-  - Real-time total calculation
+- **Responsive UI:** Clean, mobile-friendly interface using modern CSS.
+- 
+- **Wholesale/Retail Mode:** Switch between business types and show/hide payment options (e.g., Credit for wholesale).
+- 
+- **Multiple Payment Modes:** Cash, UPI, Card, Bank Transfer, and Credit (for wholesale).
+- 
+- **GST & Invoice:** Input GST number, invoice number, and customer details.
+- 
+- **Itemized Billing:** Add items with cost, margin, quantity, discount, and tax.
+- 
+- **Print Bill:** Print only the bill section (no extra UI/background) with a single click.
 
-- 🏪 **Shop Management**
-  - Customizable shop name and business type (Retail/Wholesale)
-  - GST number tracking
-  - Invoice number generation
+- 
+- **Export Options:** Export data/history in various formats.
 
-- 💳 **Payment Options**
-  - Multiple payment methods (Cash, Card, UPI, Bank Transfer)
-  - UPI QR code generation for easy payments
-  - Payment notes for transaction tracking
+- **Dark Mode:** Toggle between light and dark themes.
+- 
+- **UPI QR Support:** Show QR code for UPI payments.
+- 
+- **Toast Notifications:** User feedback for actions.
 
-- 📊 **History & Export**
-  - Save calculation history (last 50 entries)
-  - Export data in multiple formats (CSV, JSON, Text)
-  - Draft saving functionality
-
-- 🖨️ **Bill Generation**
-  - Professional invoice printing
-  - Printable bill with all transaction details
-  - QR code inclusion for UPI payments
-
-- 🎨 **UI Features**
-  - Dark/Light mode toggle
-  - Animated 3D card interface
-  - Toast notifications for user feedback
-  - Responsive design for all devices
+---
+-
 
 ## Installation
 
